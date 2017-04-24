@@ -1,2 +1,0 @@
-# ReposCodice
-Deposito Codice GIT

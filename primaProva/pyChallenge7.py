@@ -30,3 +30,4 @@ for i in list:
 
 
 
+im.close()

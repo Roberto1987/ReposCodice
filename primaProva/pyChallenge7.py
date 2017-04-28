@@ -21,9 +21,7 @@ for j in range(0,89): #larghezza 6 pixel
         print(pngMatrix[j*fix,i])
 
 
-box = (0, 43, 608, 52)
-region = im.crop(box)
-region.show()
+
 
 for i in list:
     print(chr(i[0]),end="")
